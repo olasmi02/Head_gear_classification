@@ -42,5 +42,3 @@ Feel free to modify and use the code for your own purposes.
 
 - The headgear dataset used in this project is sourced from [source of the dataset].
 - The EfficientNetB0 model is based on the work by [EfficientNetB0 paper citation].
-
-Please make sure to update the information in the README file to match your project's specific details.
