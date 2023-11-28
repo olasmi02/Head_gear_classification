@@ -1,6 +1,16 @@
 # Headgear Classification Project
 
-This project demonstrates the steps involved in performing classification on a headgear dataset using the EfficientNetB0 model. It includes data loading, data preprocessing, model definition, training, evaluation, and testing.
+This project demonstrates the steps involved in performing classification on a headgear dataset using the EfficientNetB0 model. It includes data loading, data preprocessing, model definition, training, evaluation, and testing. The headgear dataset used in this project is sourced from Kaggle.
+
+## Table of Contents
+- Dataset
+- Prerequisites
+- Getting Started
+- Results
+- Contributing
+- Authors
+- License
+- Acknowledgments
 
 ## Dataset
 
@@ -17,6 +27,10 @@ To run this project, you need the following libraries and frameworks:
 - Matplotlib
 
 ## Getting Started
+To clone this repository, run the following command:
+```bash
+git clone https://github.com/olasmi02/Head_gear_classification.git
+```
 
 1. Clone this repository to your local machine.
 2. Set up the required libraries and frameworks as mentioned in the Prerequisites section.
@@ -26,7 +40,11 @@ To run this project, you need the following libraries and frameworks:
 
 ## Results
 
-The model achieved an accuracy of 94% on the validation set and a test accuracy of 94% on the testing set. The loss and accuracy curves are plotted for visualization.
+The model achieved an accuracy of 94% on the validation set and a test accuracy of 94% on the testing set.
+
+## Contributing
+
+If you want to contribute to this project, please fork the repository and make changes as you’d like. Pull requests are warmly welcome.
 
 ## Authors
 
@@ -36,9 +54,7 @@ The model achieved an accuracy of 94% on the validation set and a test accuracy 
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-Feel free to modify and use the code for your own purposes.
 
 ## Acknowledgments
 
-- The headgear dataset used in this project is sourced from [source of the dataset].
-- The EfficientNetB0 model is based on the work by [EfficientNetB0 paper citation].
+- The headgear dataset used in this project is sourced from Kaggle.
